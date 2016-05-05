@@ -1,5 +1,4 @@
-# hell-world
-I meant to write hello-world, oh well, this is funnier.
+# hello-world
 
 This is a test repository, as we learn how to use Git for Math 651,
 a graduate math course at the University of Calgary.
